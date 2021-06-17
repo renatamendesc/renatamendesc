@@ -6,6 +6,7 @@
 - 🤖 Atualmente faço parte do capítulo estudantil de Robótica e Automação, pelo Instituto de Engenheiros Eletricistas e Eletrônicos (IEEE)
 
 <br>
+
 <p align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=renatamendesc&show_icons=true&theme=radical" />
@@ -15,7 +16,7 @@
   </a>
 </p>
 
----
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=renatamendesc"/>
