@@ -28,5 +28,3 @@
 </p> 
     
 <h3 align="center"> Sinta-se à vontade para conferir meus projetos! </h3>
-    
----
