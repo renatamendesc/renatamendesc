@@ -1,9 +1,9 @@
-<h2 align="center"> Olá, seja bem-vindo(a) ao meu perfil! 👋 </h2>
+<h2 align="center"> Hello, welcome to my profile! 👋 </h2>
 <br>
 
-- 🎓 Sou estudante de Engenharia de Computação pela Universidade Federal da Paraíba (UFPB)
-- 🔍 Venho focando meus estudos na área de Otimização e Pesquisa Operacional
-- 🤖 Atualmente faço parte do capítulo estudantil de Robótica e Automação, pelo Instituto de Engenheiros Eletricistas e Eletrônicos (IEEE)
+- 🎓 I'm a Computer Engineering student at Universidade Federal da Paraíba (UFPB)
+- 🔍 I've been focusing my studies on Optimization and Operations Research
+- 🤖 Currently I'm a member of the sutdent chapter of Robotics and Automation, by the Institute of Electrical and Electronics Engineers (IEEE)
 
 <br>
 
@@ -18,16 +18,10 @@
 
 <br>
 
-<!--
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=renatamendesc"/>
-</p>
--->
-
 <p align="center">
   <a href="https://www.linkedin.com/in/renatamendesc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <a href="https://www.instagram.com/rehmpcampos/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   <a href="mailto:renatampc0300802@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </p> 
     
-<h3 align="center"> Sinta-se à vontade para conferir meus projetos! </h3>
+<h3 align="center"> Feel free to check on my projetcs! </h3>
