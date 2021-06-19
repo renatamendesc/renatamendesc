@@ -24,4 +24,4 @@
   <a href="mailto:renatampc0300802@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </p> 
     
-<h3 align="center"> Feel free to check on my projetcs! </h3>
+<h3 align="center"> Feel free to check on my projects! </h3>
