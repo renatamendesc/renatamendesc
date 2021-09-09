@@ -3,7 +3,6 @@
 
 - 🎓 I'm a Computer Engineering student at Universidade Federal da Paraíba (UFPB)
 - 🔍 I've been focusing my studies on Optimization and Operations Research
-- 🤖 Currently I'm a member of the sutdent chapter of Robotics and Automation, by the Institute of Electrical and Electronics Engineers (IEEE)
 
 <br>
 
