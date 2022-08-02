@@ -3,7 +3,6 @@
 
 - 🎓 Computer Engineering student at UFPB (Universidade Federal da Paraíba)
 - 📝 Undergraduate researcher at LOG UFPB (Logistics and Optimization Group)
-- 🔍 Focusing my studies on Optimization and Operations Research
 
 <br>
 
