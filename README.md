@@ -4,6 +4,7 @@
 - 🎓 Computer Engineering student at UFPB (Universidade Federal da Paraíba)
 - 📝 Undergraduate researcher at LOG UFPB (Logistics and Optimization Group)
 
+<!--
 <br>
 
 <p align="center"> 
@@ -16,5 +17,7 @@
 </p>
 
 <br>
+
+-->
     
 <h3 align="center"> Feel free to check on my projects! </h3>
