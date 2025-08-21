@@ -1,8 +1,8 @@
 <h2 align="center"> Hello, welcome to my profile! 👋 </h2>
 <br>
 
-- 🎓 Computer Engineering student at UFPB (Universidade Federal da Paraíba)
-- 📝 Undergraduate researcher at LOG UFPB (Logistics and Optimization Group)
+- 🎓 I'm a computer engineering student at UFPB (Universidade Federal da Paraíba)
+- 📝 Currently working as an undergraduate researcher at LOG UFPB (Logistics and Optimization Group)
 
 <!--
 <br>
