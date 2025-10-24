@@ -19,5 +19,3 @@
 <br>
 
 -->
-    
-<h3 align="center"> Feel free to check on my projects! </h3>
