@@ -1,7 +1,7 @@
 <h2 align="center"> Hello, welcome to my profile! 👋 </h2>
 <br>
 
-- 🔍 Researcher at LOG UFPB (Logistics and Optimization Group)
+- 🔍 Researcher at LOG UFPB  
 - 🎓 B.Sc. in Computer Engineering from UFPB (Universidade Federal da Paraíba)
 
 <p align="center">
@@ -10,6 +10,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatamendesc&layout=compact&hide_progress=true&hide=Makefile,Shell&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/renatamendesc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="mailto:renatampc030802@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <!--
