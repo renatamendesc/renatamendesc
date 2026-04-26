@@ -2,7 +2,8 @@
 <br>
 
 - 🔍 Researcher at LOG UFPB  
-- 🎓 B.Sc. in Computer Engineering from UFPB (Universidade Federal da Paraíba)
+- 🎓 BSc in Computer Engineering from UFPB (Universidade Federal da Paraíba)
+- 📚 MSc student in Informatics at UFPB (Universidade Federal da Paraíba)
 
 <!--
 <p align="center">
