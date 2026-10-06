@@ -1,9 +1,9 @@
 <h2 align="center"> Hello, welcome to my profile! 👋 </h2>
 <br>
 
-- 🔍 Researcher in Operations Research at LOG-UFPB
-- 🎓 BSc in Computer Engineering from UFPB (Universidade Federal da Paraíba)
+- 🔍 Researcher in Operations Research at LOG UFPB
 - 📚 MSc student in Informatics at UFPB (Universidade Federal da Paraíba)
+- 🎓 BSc in Computer Engineering from UFPB (Universidade Federal da Paraíba)
 
 <!--
 <p align="center">
