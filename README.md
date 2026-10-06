@@ -2,8 +2,8 @@
 <br>
 
 - 🔍 Researcher in Operations Research at LOG UFPB
-- 📚 MSc student in Informatics at UFPB (Universidade Federal da Paraíba)
-- 🎓 BSc in Computer Engineering from UFPB (Universidade Federal da Paraíba)
+- 📚 MSc student in Informatics at UFPB
+- 🎓 BSc in Computer Engineering from UFPB
 
 <!--
 <p align="center">
