@@ -1,7 +1,7 @@
 <h2 align="center"> Hello, welcome to my profile! 👋 </h2>
 <br>
 
-- 🔍 Researcher in Operations Research at LOG UFPB
+- 🔍 Researcher in Combinatorial Optimization at LOG UFPB
 - 📚 MSc student in Informatics at UFPB
 - 🎓 BSc in Computer Engineering from UFPB
 
